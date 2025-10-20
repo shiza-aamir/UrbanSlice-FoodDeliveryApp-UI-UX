@@ -2,7 +2,7 @@
 
 A complete UI/UX design project for a modern food delivery application, showcasing the design process from low-fidelity wireframes to high-fidelity interactive prototypes.
 
-![UrbanSlice Banner](assets/app-banner.png)
+![UrbanSlice Banner](assets/screen1.png)
 
 ## Project Overview
 
@@ -73,18 +73,20 @@ urbanslice-food-delivery-app/
 ### Low-Fidelity Wireframes
   | Welcome | Home | Cart | Tracking |
 
-- [Welcome](low-fidelity-wireframes/welcome-login.png)
-- [Home](low-fidelity-wireframes/home-screen.png)
+- [Welcome](low-fidelity-wireframes/splashscreen.png)
+- [Home](low-fidelity-wireframes/home.png)
 - [Cart](low-fidelity-wireframes/cart.png)
-- [Tracking](low-fidelity-wireframes/order-tracking.png) 
+- [Tracking](low-fidelity-wireframes/tracking.png) 
 
 ### High-Fidelity Designs
   | Login Screen | Menu | Checkout | Order Confirmation |
 
-- [Login](high-fidelity-designs/final-screens/02-login.png)
-- [Menu](high-fidelity-designs/final-screens/04-category.png)
-- [Checkout](high-fidelity-designs/final-screens/06-checkout.png)
-- [Confirmation](high-fidelity-designs/final-screens/08-order-success.png) 
+- [Welcome](high-fidelity-designs/Final-screens/screen1.png) [Login](high-fidelity-designs/Final-screens/screen2.png)
+- [Menu](high-fidelity-designs/Final-screens/screen3.png) [Items](high-fidelity-designs/Final-screens/screen5.png) [Item Description](high-fidelity-designs/Final-screens/screen6.png)
+- [Checkout](high-fidelity-designs/Final-screens/screen7.png)
+- [Confirmation](high-fidelity-designs/Final-screens/screen8.png) [success](high-fidelity-designs/Final-screens/screen9.png)
+- [Tracking](high-fidelity-designs/Final-screens/screen10.png)
+- [Profile](high-fidelity-designs/Final-screens/screen11.png)
 
 ## Pages Included
 
@@ -116,5 +118,5 @@ urbanslice-food-delivery-app/
 ## Author
 
 **Shiza Aamir**
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/shiza-aamir-4805a1267)
-- Email: shizaaamir3@gmail.com
+- [LinkedIn](www.linkedin.com/in/shiza-aamir-4805a1267)
+- [Email](shizaaamir3@gmail.com)
